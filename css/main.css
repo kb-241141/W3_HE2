@@ -1,0 +1,101 @@
+body {
+    margin:0;
+    font-family: fantasy, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #fffeef;
+}
+h1 {
+    text-align: center;
+}
+.topNav{
+    overflow: hidden;
+    background-color: #000000 ;
+}
+
+.topNav a{
+float: left;
+color: #ffffff;
+text-align: center;
+padding: 14px 16px;
+font-size: 17px;
+text-decoration:none ;
+}
+
+.topNavRight{
+    float: right;
+}
+.topNav a.active{
+    background-color: #ffa5f3;
+    color: #ffffff;
+}
+.topNav a:hover{
+    background-color: #ffa5f3;
+    color: #ffffff;
+}
+.centerimg img{
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+
+}
+
+.M    figure {
+        display:inline-block;
+    }
+    figcaption {
+        text-align: center;
+    }
+
+.DN    figure {
+        display:inline-block;
+    }
+    figcaption {
+        text-align: center;
+    }
+
+.DV    figure {
+        display:block;
+    }
+    figcaption {
+        text-align: center;
+    }
+    
+h3 {
+    text-align: center;
+}
+
+.bottomNav{
+    overflow: hidden;
+    background-color: #000000 ;
+}
+
+.bottomNav a{
+float: left;
+color: #ffffff;
+text-align: center;
+padding: 14px 16px;
+font-size: 17px;
+text-decoration:none ;
+}
+
+.bottomNavRight{
+    float: right;
+}
+.bottomNav a.active{
+    background-color: #ffa5f3;
+    color: #ffffff;
+}
+.bottomNav a:hover{
+    background-color: #ffa5f3;
+    color: #ffffff;
+}
+.centerimg img{
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.5;
+    border-radius: 50%;
+
+}
